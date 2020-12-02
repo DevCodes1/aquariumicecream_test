@@ -16,7 +16,7 @@ section {
 
 .jumbotron {
     padding: auto;
-    background: #d1d8d7 url(./static/img/ice_image_main.png) no-repeat top center;
+    background: #d1d8d7 url(./static/assets/images/ice_image_main.png) no-repeat top center;
     width: auto;
     height: 500px;
     overflow: auto;
